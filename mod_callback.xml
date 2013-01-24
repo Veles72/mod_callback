@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<install type="module" version="1.5.0" client="site">
+	<name>Callback</name>
+	<author>Konstantin Ovcharenko</author>
+	<authorEmail>alba2001@meta.ua</authorEmail>
+	<authorUrl>http://www.vini-cloud.ru</authorUrl>
+	<copyright>Copyright (C) 2011-2013 </copyright>
+	<creationDate>June 2013</creationDate>
+	<description>
+            Модуль для вывода кнопки заказа обратного звонка.
+        </description>
+	<license>freeware</license>
+	<version>1.00</version>
+	
+	<files>
+            <filename module="mod_callback">mod_callback.php</filename>
+            <filename>index.html</filename>
+	</files>
+</install>
